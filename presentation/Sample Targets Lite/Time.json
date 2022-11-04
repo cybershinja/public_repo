@@ -5,11 +5,11 @@
     "presentationColumns" : [ {
       "name" : "Calendar Date",
       "description" : "Calendar Date uniquely identifies each record in the Time dimension table. \r\nStores the date information in the format MM/DD/YYYY.  Eg :- 11/12/2006",
-      "sourceLogicalColumn" : "logicalColumn:SampleApp Lite.D0 Time.Calendar Date"
+      "sourceLogicalColumn" : "logicalColumn:SampleApp Lite.D0 Time.Calendar Date1"
     }, {
       "name" : "Per Name Week",
       "description" : "Per Name Week- Stores the week information in the format YYYY Week Number. Eg :- 2005 Week 44",
-      "sourceLogicalColumn" : "logicalColumn:SampleApp Lite.D0 Time.Per Name Week"
+      "sourceLogicalColumn" : "logicalColumn:SampleApp Lite.D0 Time.Per Name Week1"
     }, {
       "name" : "Per Name Month",
       "description" : "Per Name Month. Stores the month information in the format YYYY / MM. Eg :- 2006 / 11",
