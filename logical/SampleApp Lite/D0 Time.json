@@ -81,7 +81,7 @@
       },
       "logicalLevel" : "Quarter"
     }, {
-      "name" : "Per Name Half",
+      "name" : "Per Name Half1",
       "description" : "Per Name Half. Stores the Half year information in the format YYYY HYHalfYearNumber. Eg :- 2006 HY2",
       "dataType" : "VARCHAR",
       "writeable" : false,
@@ -305,9 +305,9 @@
         "numberOfElements" : 6,
         "grandTotalLevel" : false,
         "disableAggregateToHigherLevel" : false,
-        "primaryKey" : [ "Per Name Half" ],
-        "displayKey" : "Per Name Half",
-        "chronologicalKey" : [ "Per Name Half" ]
+        "primaryKey" : [ "Per Name Half1" ],
+        "displayKey" : "Per Name Half1",
+        "chronologicalKey" : [ "Per Name Half1" ]
       }, {
         "name" : "Quarter",
         "numberOfElements" : 30,
