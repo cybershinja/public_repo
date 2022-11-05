@@ -21,7 +21,7 @@
     }, {
       "name" : "Per Name Half",
       "description" : "Per Name Half. Stores the Half year information in the format YYYY HYHalfYearNumber. Eg :- 2006 HY2",
-      "sourceLogicalColumn" : "logicalColumn:SampleApp Lite.D0 Time.Per Name Half"
+      "sourceLogicalColumn" : "logicalColumn:SampleApp Lite.D0 Time.Per Name Half2"
     }, {
       "name" : "Per Name Year",
       "description" : "Per Name Year. Stores the year information in the format YYYY. Eg :- 2006\r\n",
