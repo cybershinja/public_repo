@@ -59,7 +59,7 @@
       },
       "logicalLevel" : "Month"
     }, {
-      "name" : "Per Name Qtr",
+      "name" : "Per Name Qtr1",
       "description" : "Per Name Qtr. Stores the Quarter information in the format YYYY QQuarterNumber. Eg :- 2005 Q3",
       "dataType" : "VARCHAR",
       "writeable" : false,
@@ -313,9 +313,9 @@
         "numberOfElements" : 30,
         "grandTotalLevel" : false,
         "disableAggregateToHigherLevel" : false,
-        "primaryKey" : [ "Per Name Qtr" ],
-        "displayKey" : "Per Name Qtr",
-        "chronologicalKey" : [ "Per Name Qtr" ]
+        "primaryKey" : [ "Per Name Qtr1" ],
+        "displayKey" : "Per Name Qtr1",
+        "chronologicalKey" : [ "Per Name Qtr1" ]
       }, {
         "name" : "Month",
         "numberOfElements" : 120,
