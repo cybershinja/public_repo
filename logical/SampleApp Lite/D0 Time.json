@@ -37,7 +37,7 @@
       },
       "logicalLevel" : "Week"
     }, {
-      "name" : "Per Name Month",
+      "name" : "Per Name Month1",
       "description" : "Per Name Month. Stores the month information in the format YYYY / MM. Eg :- 2006 / 11",
       "dataType" : "VARCHAR",
       "writeable" : false,
@@ -321,9 +321,9 @@
         "numberOfElements" : 120,
         "grandTotalLevel" : false,
         "disableAggregateToHigherLevel" : false,
-        "primaryKey" : [ "Per Name Month" ],
-        "displayKey" : "Per Name Month",
-        "chronologicalKey" : [ "Per Name Month" ]
+        "primaryKey" : [ "Per Name Month1" ],
+        "displayKey" : "Per Name Month1",
+        "chronologicalKey" : [ "Per Name Month1" ]
       }, {
         "name" : "Week",
         "numberOfElements" : 500,

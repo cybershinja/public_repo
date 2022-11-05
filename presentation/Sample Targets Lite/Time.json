@@ -13,7 +13,7 @@
     }, {
       "name" : "Per Name Month",
       "description" : "Per Name Month. Stores the month information in the format YYYY / MM. Eg :- 2006 / 11",
-      "sourceLogicalColumn" : "logicalColumn:SampleApp Lite.D0 Time.Per Name Month"
+      "sourceLogicalColumn" : "logicalColumn:SampleApp Lite.D0 Time.Per Name Month1"
     }, {
       "name" : "Per Name Qtr",
       "description" : "Per Name Qtr. Stores the Quarter information in the format YYYY QQuarterNumber. Eg :- 2005 Q3",
