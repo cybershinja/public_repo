@@ -1,0 +1,12 @@
+{
+  "presentationTable" : {
+    "name" : "Customers",
+    "presentationColumns" : [ {
+      "name" : "Customer Name",
+      "sourceLogicalColumn" : "logicalColumn:Sample Sales.D3 Customers.Customer Name"
+    }, {
+      "name" : "Customer Number",
+      "sourceLogicalColumn" : "logicalColumn:Sample Sales.D3 Customers.Customer Number"
+    } ]
+  }
+}

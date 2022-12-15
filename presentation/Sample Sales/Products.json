@@ -1,0 +1,18 @@
+{
+  "presentationTable" : {
+    "name" : "Products",
+    "presentationColumns" : [ {
+      "name" : "Brand",
+      "sourceLogicalColumn" : "logicalColumn:Sample Sales.D2 Products.Brand"
+    }, {
+      "name" : "Line of Business",
+      "sourceLogicalColumn" : "logicalColumn:Sample Sales.D2 Products.Line of Business"
+    }, {
+      "name" : "Product",
+      "sourceLogicalColumn" : "logicalColumn:Sample Sales.D2 Products.Product"
+    }, {
+      "name" : "Type",
+      "sourceLogicalColumn" : "logicalColumn:Sample Sales.D2 Products.Type"
+    } ]
+  }
+}
