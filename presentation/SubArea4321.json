@@ -1,0 +1,35 @@
+{
+  "subjectArea" : {
+    "name" : "SubArea4321",
+    "description" : "Test description",
+    "sourceBusinessModel" : "businessModel:SampleApp Lite",
+    "implicitFactColumn" : "logicalColumn:SampleApp Lite.F0 Revenue Base Measures.Revenue",
+    "tableOrder" : [ {
+      "name" : "presentationTable:SubArea4321.Time"
+    }, {
+      "name" : "presentationTable:SubArea4321.More Time Objects"
+    }, {
+      "name" : "presentationTable:SubArea4321.Products"
+    }, {
+      "name" : "presentationTable:SubArea4321.More Product Objects"
+    }, {
+      "name" : "presentationTable:SubArea4321.Offices"
+    }, {
+      "name" : "presentationTable:SubArea4321.More Office Objects"
+    }, {
+      "name" : "presentationTable:SubArea4321.Orders"
+    }, {
+      "name" : "presentationTable:SubArea4321.Orders Dates"
+    }, {
+      "name" : "presentationTable:SubArea4321.Base Facts"
+    }, {
+      "name" : "presentationTable:SubArea4321.Calculated Facts"
+    }, {
+      "name" : "presentationTable:SubArea4321.Time Series"
+    } ],
+    "permissions" : [ {
+      "accessor" : "role:BIConsumer",
+      "access" : "WRITE"
+    } ]
+  }
+}
